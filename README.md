@@ -11,8 +11,8 @@ Tranquility can be downloaded from the Mods menu in unciv, in the map pack Nextg
 
 Stats: Medium size, 37% water. Be sure to use the [FantasyHex tileset](https://github.com/carriontrooper/Alpha-Frontier/tree/main/Images/TileSets/FantasyHex).
 
-[](/images/Tranquility_map.jpg)
-[](/images/Tranquility_action.jpg)
+![](/images/Tranquility_map.jpg)
+![](/images/Tranquility_action.jpg)
 
 ## Whirlpool
 
@@ -20,5 +20,5 @@ A naval map with sparse land. Coasts are set up as navigation channels. Resource
 
 Tested with 3 civ, 1 state, plus player. Size is small. Built for rekmod making full use of the mods' game resources.
 
-[](/images/Whirlpool_map.jpg)
-[](/images/Whirlpool_action.jpg)
+![](/images/Whirlpool_map.jpg)
+![](/images/Whirlpool_action.jpg)
