@@ -11,9 +11,9 @@ Tranquility can be downloaded from the Mods menu in unciv, in the map pack Nextg
 
 Stats: Medium size, 37% water. Be sure to use the [FantasyHex tileset](https://github.com/carriontrooper/Alpha-Frontier/tree/main/Images/TileSets/FantasyHex).
 
-![](/images/Tranquility_map.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Tranquility_map.jpg)
 
-![](/images/Tranquility_action.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Tranquility_action.jpg)
 
 ## Whirlpool
 
@@ -21,9 +21,9 @@ A naval map with sparse land. Coasts are set up as navigation channels. Resource
 
 Map size is small. Built for [Rekmod](https://github.com/ravignir/RekMOD) making full use of the mods' resources.
 
-![](/images/Whirlpool_map.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Whirlpool_map.jpg)
 
-![](/images/Whirlpool_action.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Whirlpool_action.jpg)
 
 ## Barren Ice
 
@@ -31,9 +31,9 @@ Fast paced map tells its own story. Gameplay objective is critical resource mana
 
 Made for Gods and Kings ruleset; there is no aluminum on the map so you'll need to build Recycling Centers. There is a single highly sought uranium tile. Survive the desolation!
 
-![](/images/Barren_Ice_map.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Barren_Ice_map.jpg)
 
-![](/images/Barren_Ice_action.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Barren_Ice_action.jpg)
 
 ## Hexworld
 
@@ -41,7 +41,7 @@ Hexworld is meant to be a competition map, symmetrical in structure but quite va
 
 Founding a city at island intersections enable naval bridges between sections of the map (canal cities), hinted with city ruins. There are MANY gameplay aspects to reveal, strategic balances that make some islands more or less easier to defend or take, and attention to resource placement that makes this map quite replayable. Hexworld comes in 3 versions: Vanilla, Gods and Kings, and [Rekmod](https://github.com/ravignir/RekMOD) as independent maps which you will see in the Custom Maps menu.
 
-![](/images/Hexworld_map.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Hexworld_map.jpg)
 
-![](/images/Hexworld_action.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Hexworld_action.jpg)
 
