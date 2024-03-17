@@ -5,6 +5,7 @@ Most fun and well-designed maps! Current maps include: Hyrule, Barren Ice, Hexwo
 
 A remastered map version of the Zelda 2 mod [Z2](https://github.com/hackedpassword/Z2) for G&K.
 
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Hyrule%20base.jpg)
 ![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/Nextgen-Maps/Screenshot_20240316_163346.jpg)
 
 Gameplay changes here compensate for features not available in the original Z2 map. 
