@@ -19,7 +19,7 @@ You'll find hill-paths and other accessibilities that still retain both the orig
 - `Palace` and `town` powerups are `luxury resources` positioned adjacently
 - Other game items (`trophy, medicine, lost child`) are also `luxury resources`
 - `Fish` as `bonus resources` are the only non-native resource that does not directly align to the original game
-- `Caves` are `forts`, `caverns` are `hills` with `railroad`
+- `Caves` are `forts`, `caverns` are `hills` and ones that teleported have `railroad`, enemies are radioactive sheep
 - Difficult to access areas are made more accessible to prevent unfair bottlenecks
 
 ## Spawn points
