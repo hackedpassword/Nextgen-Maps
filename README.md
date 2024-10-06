@@ -1,6 +1,49 @@
 # Nextgen-Maps
 Most fun and well-designed maps! Current maps include: Hyrule, Barren Ice, Hexworld, Whirlpool, Tranquility
 
+# Brittania Overworld
+
+A precursor map of an upcoming **Ultima V** mod. Stunning size: **128x128**!!!
+
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Britannia%20Overworld%20G%26K.png)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Nextgen-Maps/Britannia%20Overworld%20G%26K%20map1.png)
+
+This is a 4:1 overlay conversion. All places in the U5 world have been remade into Unciv entities. No start locations. Rivers artfully re-interpretted.
+
+The scope of this map is huge. Victory types are generally recommended to include domination and something else, cultural is my favorite here.
+
+Best player setup so far has been 10 civs, 20 CS's. The map is quite spacious, so civs aren't on top of each other fighting for border space. That means you'll need to take advantage of hand-placed resources and alliances with CS's.
+
+Because it's impractical to rush for resources, especially when they could be a half-century away, use your resources, send out scouts, work the land. Adventure awaits!
+
+## Aliases
+- `Castles` - Citadel
+- `Cities of virtue` - Holy site
+- `Abbeys`, `Keeps` - Academy
+- `Lighthouses`, `villages` and `huts` - Landmark
+- `Moongates` - Customs house
+- `Dungeons` - Natural Wonder 
+- `Shrines` - Manufactury
+- `Nightshade` & `Mandrake` - Ancient ruins
+- `Glass sword` - uranium+mine
+- `Bridges` - desert tile + flood plains 
+- `Piers` - desert tile 
+- `Coast`, `ocean`, `rough ocean` - coast, lakes, ocean
+
+**Lots** of naval warfare possibilities. Vast amounts of space to control. Should keep a player busy for a while. 😉
+
+## q/a:
+
+q. Is this map accurate?
+
+a. It's quite accurate, however I still find nuance inaccuracies that unless you're die-hard, it's just mapmaker nitpicking. Also to maintain gameplay, and due to 4:1 detail, there's clever fudging of certain areas, like the glass sword mountain range.
+
+q. What's up with Buccaneer's Den, did it float west?
+
+a. The map image I have places the island where you see it. I'll move that back east in a later update, with a better map overlay.
+
+---
+
 # Hyrule
 
 A remastered map version of the Zelda 2 mod [Z2](https://github.com/hackedpassword/Z2) for G&K.
