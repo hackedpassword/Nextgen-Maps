@@ -1,7 +1,16 @@
 # Nextgen-Maps
-Most fun and well-designed maps! Current maps include: Hyrule, Barren Ice, Hexworld, Whirlpool, Tranquility
+Most fun and well-designed maps! Current maps include:
 
-# Brittania Overworld
+| _Map_ | _Mods Supported_ |
+| --- | --- |
+| [Britannia Overworld](./#Britannia%20Overworld) | G&K |
+| [Hyrule](Hyrule) | G&K |
+| [Barren Ice](./Barren%20Ice) | G&K |
+| [Hexworld](Hexworld) | Vanilla, G&K, Rekmod |
+| [Whirlpool](Whirlpool) | Rekmod |
+| [Tranquility](Tranquility) | Alpha Frontier |
+
+# Britannia Overworld
 
 A precursor map of an upcoming **Ultima V** mod. Stunning size: **128x128**!!!
 
