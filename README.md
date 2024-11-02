@@ -33,11 +33,11 @@ Because it's impractical to rush for resources, especially when they could be a 
 - `Moongates` - Customs house
 - `Dungeons` - Natural Wonder 
 - `Shrines` - Spiritual site
-- `Nightshade` & `Mandrake` - Ancient ruins
-- `Glass sword` - uranium+mine
-- `Bridges` - desert tile + flood plains 
-- `Piers` - desert tile 
-- `Coast`, `ocean`, `rough ocean` - coast, lakes, ocean
+- `Nightshade` & `Mandrake` - Truffles, Spices
+- `Glass sword` - Uranium+Mine
+- `Bridges` - Desert tile + Flood plains 
+- `Piers` - Desert tile 
+- `Coast`, `ocean`, `rough ocean` - Coast, Lakes, Ocean
 
 **Lots** of naval warfare possibilities. Vast amounts of space to control. Should keep a player busy for a [good long] while. 😉
 
@@ -45,11 +45,11 @@ Because it's impractical to rush for resources, especially when they could be a 
 
 q. Is this map accurate?
 
-a. It's quite accurate, however I still find the occasional trivial nuance inaccuracy that unless you're die-hard, it's just mapmaker nitpicking. Also to maintain gameplay, and due to 4:1 detail, there's clever fudging of certain areas, like the glass sword mountain range.
+a. Yes! It's quite accurate. To maintain gameplay, and due to 4:1 detail, there's clever fudging of certain areas, like the glass sword mountain range.
 
 ## Updates:
 
-1.2: Swapped city/spiritual site for shrine/manufactury; Moved Buccaneer's Den east to it's proper location.
+1.2: Swapped city/spiritual site for shrine/manufactury; Moved Buccaneer's Den east to its proper location.
 
 ---
 
