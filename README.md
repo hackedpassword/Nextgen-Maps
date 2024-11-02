@@ -53,7 +53,7 @@ a. Yes! It's quite accurate. To maintain gameplay, and due to 4:1 detail, there'
 
 ---
 
-# Hyrule
+# Hyrule - The world of Zelda 2
 
 A remastered map version of the Zelda 2 mod [Z2](https://github.com/hackedpassword/Z2) for G&K.
 
