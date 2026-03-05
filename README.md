@@ -3,6 +3,7 @@ Most fun and well-designed maps! Current maps include:
 
 | _Map_ | _Mods Supported_ |
 | --- | --- |
+| [Britannia for UltimaV retroset](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20v2.3.txt) | UltimaV |
 | [Britannia Overworld](./#Britannia%20Overworld) | G&K |
 | [Hyrule](Hyrule) | G&K |
 | [Barren Ice](./Barren%20Ice) | G&K |
