@@ -1,15 +1,17 @@
 # Nextgen-Maps
-Most fun and well-designed maps! Current maps include:
+Most fun and well-designed hand-made maps!
 
-| _Map_ | _Mods Supported_ |
-| --- | --- |
-| [Britannia for UltimaV retroset](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20v2.3.txt) | UltimaV |
-| [Britannia Overworld](./#Britannia%20Overworld) | G&K |
-| [Hyrule](Hyrule) | G&K |
-| [Barren Ice](./Barren%20Ice) | G&K |
-| [Hexworld](Hexworld) | Vanilla, G&K, Rekmod |
-| [Whirlpool](Whirlpool) | Rekmod |
-| [Tranquility](Tranquility) | Alpha Frontier |
+Current maps include:
+
+| _Map_ | _Mods Supported_ | _Download_ |
+| --- | --- | --- |
+| [Britannia for UltimaV retroset, latest]() | UltimaV retroset | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20v2.3) |
+| [Britannia Overworld](./#Britannia-Overworld) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20Overworld%20G%26K) |
+| [Hyrule](./Hyrule) | G&K, Z2 | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hyrule) |
+| [Barren Ice](./Barren-Ice) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Barren%20Ice) |
+| [Hexworld](./Hexworld) | Vanilla, G&K, Rekmod | Standalone maps: [Vanilla](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Vanilla) [G&K](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20GnK) [Rekmod](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Rekmod) |
+| [Whirlpool](./Whirlpool) | Rekmod | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Whirlpool%20-%20Rekmod) |
+| [Tranquility](./Tranquility) | Alpha Frontier | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Tranquility%20-%20Alpha%20Frontier) |
 
 # Britannia Overworld
 
@@ -126,7 +128,7 @@ Made for Gods and Kings ruleset; there is no aluminum on the map so you'll need 
 
 # Hexworld
 
-Hexworld is meant to be a competition map, symmetrical in structure but quite variable in biome/locale per island section. Ocean tiles grant protective partitioning in early ages. A pre-deployed rail system interconnects everything for rapid competition across this large map. A pacman-ish power struggle out of the gate for artifacts instills a frantic pace that jump starts any civ.
+Hexworld is meant to be a competition map, symmetrical in structure but quite variable in biome/locale per island section. Ocean tiles grant protective partitioning in early ages. A pre-deployed rail system interconnects everything for rapid competition across this large map. A pacman-ish power struggle out of the gate for artifacts instills a frantic pace that jump starts any civ. There may be other maps out there with the same name, this is a Nextgen-Maps map.
 
 Founding a city at island intersections enable naval bridges between sections of the map (canal cities), hinted with city ruins. There are MANY gameplay aspects to reveal, strategic balances that make some islands more or less easier to defend or take, and attention to resource placement that makes this map quite replayable. Hexworld comes in 3 versions: Vanilla, Gods and Kings, and [Rekmod](https://github.com/ravignir/RekMOD) as independent maps which you will see in the Custom Maps menu.
 
