@@ -6,12 +6,12 @@ Current maps include:
 | _Map_ | _Mods Supported_ | _Download_ |
 | --- | --- | --- |
 | [Britannia for UltimaV retroset, latest](https://github.com/hackedpassword/UltimaV-retroset) | UltimaV retroset | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20v2.3) |
-| [Britannia Overworld](./#Britannia-Overworld) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20Overworld%20G%26K) |
-| [Hyrule](./#Hyrule) | G&K, Z2 | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hyrule) |
-| [Barren Ice](./#Barren-Ice) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Barren%20Ice) |
-| [Hexworld](./#Hexworld) | Vanilla, G&K, Rekmod | Standalone maps: [Vanilla](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Vanilla) [G&K](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20GnK) [Rekmod](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Rekmod) |
-| [Whirlpool](./#Whirlpool) | Rekmod | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Whirlpool%20-%20Rekmod) |
-| [Tranquility](./#Tranquility) | Alpha Frontier | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Tranquility%20-%20Alpha%20Frontier) |
+| [Britannia Overworld](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Britannia-Overworld) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Britannia%20Overworld%20G%26K) |
+| [Hyrule](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Hyrule) | G&K, Z2 | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hyrule) |
+| [Barren Ice](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Barren-Ice) | G&K | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Barren%20Ice) |
+| [Hexworld](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Hexworld) | Vanilla, G&K, Rekmod | Standalone maps: [Vanilla](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Vanilla) [G&K](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20GnK) [Rekmod](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Hexworld%20-%20Rekmod) |
+| [Whirlpool](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Whirlpool) | Rekmod | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Whirlpool%20-%20Rekmod) |
+| [Tranquility](https://github.com/hackedpassword/Nextgen-Maps/blob/main/README.md#Tranquility) | Alpha Frontier | [Standalone map](https://raw.githubusercontent.com/hackedpassword/Nextgen-Maps/refs/heads/main/maps/Tranquility%20-%20Alpha%20Frontier) |
 
 # Britannia Overworld
 
